@@ -1,0 +1,7 @@
+listen:
+  port: :8080
+  host: localhost
+  mod: dev
+database:
+  path: "database.db"
+  db: sqlite3
